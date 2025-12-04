@@ -55,8 +55,7 @@ class TempMailMod(loader.Module):
     }
 
     def __init__(self):
-        self.api_base = "https://api.mail.tm"
-        # Module by @gemeguardian
+        self.api_base = "https://api.mail.tm
 
     async def client_ready(self, client, db):
         self.client = client
