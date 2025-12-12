@@ -3,6 +3,11 @@
 # meta banner: https://x0.at/SqAu.png
 # requires: openai aiohttp httpx[socks] google-generativeai
 
+# ©️ Ne_Xomyahok, 2025
+# 🌐 https://github.com/Hshdhr1/my-modules-heroku
+# You can redistribute it and/or modify it under the terms of the GNU AGPLv3
+# 🔑 https://www.gnu.org/licenses/agpl-3.0.html
+
 import logging
 import re
 import aiohttp
